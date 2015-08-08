@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gotcraft",
+  "name": "GotCraft Mod",
+  "description": "POPCORNMOD!!.",
+  "version": "1",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["erik@gametek.nl"],
+  "credits": "Me!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
