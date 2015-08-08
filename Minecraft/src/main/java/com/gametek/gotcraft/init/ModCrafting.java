@@ -24,9 +24,6 @@ public final class ModCrafting {
 				new Object[] { ModBlocks.CopperBlock }
 				);
 		
-		GameRegistry.addRecipe(new ItemStack(ModBlocks.CopperBlock), 
-				new Object[] {"###", "# #", "   ", '#', ModItems.CopperIngot});
-		
 		// Create Copper Tools
 		GameRegistry.addRecipe(new ItemStack(ModTools.CopperHoe),
 				new Object[] {"CC "," S "," S ", 'C', ModItems.CopperIngot, 'S', Items.stick});
